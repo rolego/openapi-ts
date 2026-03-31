@@ -92,7 +92,7 @@ export default {
   plugins: [
     // ...other plugins
     {
-      bigint: true, // [!code ++]
+      bigInt: true, // [!code ++]
       name: '@hey-api/transformers',
     },
   ],
